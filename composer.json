@@ -1,0 +1,6 @@
+{
+	"name":"composer_test",
+	"require":{
+		"monolog/monolog":"1.0.*"
+	}
+}
